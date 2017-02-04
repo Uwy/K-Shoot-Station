@@ -23,4 +23,4 @@ You are free (and encouraged) to use, modify and redistribute those changes as l
 ### License exceptions
 
 This repository contains elements not created by me and thus follow their own license, this include so far:
- - The kshootmania skin in the `kshoot-skin` folder is originaly made by Wyvern-D https://twitter.com/yneuraq?lang=fr
+ - The kshootmania skin in the `kshoot-skin` folder is originaly made by [Wyvern-D](https://twitter.com/yneuraq)
