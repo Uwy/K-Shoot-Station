@@ -10,10 +10,14 @@ K-Shoot-Station/
  ├──kshoot-skin/                * Contains an 'hd', denoised skin based on SDVX III skin for kshootmania by Wyvern-D. 
  |   ├──hd_skin_sdvxiii_160715/ * Full SDVX III hdified, denoised and upscaled where necessary
  |   └──hd_updater/             * Only the files that changed from the original SDVX III skin
+ |
  ├──pics/v{x}/                  * Contains pictures of very variable interest for this project, do not consider those as documentation
  |   └──WIP/                    * Timeline of personnal photos to see the advancement of this project
+ |
  ├──release/v{x}/               * Contains archives for direct downloading of the plans, useful for people not wanting to work with git
+ |
  ├──v1/                         * First prototype for the K-Shoot-Station arcade, features horizontal screen, full sized furniture including speakers
+ |
  └──vids/v{x}/                  * Contains videros of very variable interest for this project, do not consider those as documentation
      └──WIP/                    * Personnal videos to see the advancement of this project
 
