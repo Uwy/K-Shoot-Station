@@ -1,7 +1,17 @@
 # K-Shoot-Station
 Instruction and plans for a DIY kshoot arcade like furniture
 
+## Preview
 
+<img src="https://pbs.twimg.com/media/DMI804DW0AAlbrt.jpg:large" />
+
+## Migrated to OnShape
+
+I migrated this project to OnShape since it's a superior software compared to solidworks
+You can use it for free (open source project) by registering or consult as readonly when not signed in
+
+You can find this project on OnShape here:
+https://cad.onshape.com/documents/047474d50950e9b9c5f38784/w/2ef6ded0bddf120fb27b5746/e/644ffcdadf1dff7560d8e62d
 
 ## Repository structure
 
